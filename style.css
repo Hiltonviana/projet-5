@@ -1,0 +1,75 @@
+body{
+    font-family:"Tahoma";
+}
+
+
+.secao{
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.logo{
+    width: 200px;
+}
+
+a{
+    margin: 0 10px;
+    color: brown;
+}
+
+h1{
+    font-size: 28px;
+    padding: 30px;
+    border-top: 1px solid #de8e37;
+
+}
+
+h2{
+    font-weight: normal;
+    color: #de8e37;
+    margin-top: 10px;
+}
+
+.banner{
+    width: 700px;
+}
+
+.secao-destaque {
+    background-color: #de8e37;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+    padding-bottom: 50px;
+}
+
+.secao-destaque h3 {
+    font-size: 28px;
+    font-weight: bold;
+
+}
+
+.secao-destaque h4{
+    font-size: 22px;
+    font-weight: bold;
+
+}
+
+.secao-destaque p{ 
+    font-size: 17px;
+    line-height: 30px;
+    padding: 0 50px;
+}
+
+.secao-destaque .pao {
+    width: 400px;
+}
+
+.secao-destaque .bolo {
+    width: 400px;
+}
+
+
+span{
+    font-weight: bold;
+}
